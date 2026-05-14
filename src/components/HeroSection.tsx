@@ -16,7 +16,7 @@ export function HeroSection({ onEnter }: HeroSectionProps) {
         className="w-48 h-48 md:w-64 md:h-64 mb-8 rounded-full overflow-hidden shadow-2xl border-4 border-white/50 relative"
       >
         <img 
-          src="https://drive.google.com/uc?export=view&id=1h4MHvmgeoslYN2kLoFV3AZgLGramDkrU" 
+          src="/Images/Hager.jpg" 
           alt="Beautiful bouquet" 
           className="w-full h-full object-cover object-center"
         />
