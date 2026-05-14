@@ -16,7 +16,7 @@ export function HeroSection({ onEnter }: HeroSectionProps) {
         className="w-48 h-48 md:w-64 md:h-64 mb-8 rounded-full overflow-hidden shadow-2xl border-4 border-white/50 relative"
       >
         <img 
-          src="https://images.unsplash.com/photo-1546842931-886c185b4c8c?auto=format&fit=crop&q=80&w=800" 
+          src="https://drive.google.com/uc?export=view&id=1h4MHvmgeoslYN2kLoFV3AZgLGramDkrU" 
           alt="Beautiful bouquet" 
           className="w-full h-full object-cover object-center"
         />

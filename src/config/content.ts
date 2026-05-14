@@ -1,6 +1,6 @@
 export const config = {
-  herName: "Sarah",
-  yourName: "Alex",
+  herName: "Hager",
+  yourName: "Muhammed",
   hero: {
     title: "For The Most Beautiful Girl In My World,",
     subtitle: "I made this garden for you.",
@@ -81,9 +81,9 @@ export const config = {
   },
   letter: {
     title: "A Little Surprise...",
-    greeting: "My Dearest Sarah,",
+    greeting: "My Dearest Hager,",
     body: "I built this little digital world because no physical card could hold how much I feel for you. You are my best friend, my greatest adventure, and my safe place. Not a day goes by where I don't feel incredibly lucky to be yours. Thank you for choosing me. I promise to always choose you.",
-    signoff: "Forever yours, Alex"
+    signoff: "Forever yours, Muhammed"
   },
   cta: {
     headline: "Will You Keep Letting Me Love You?",

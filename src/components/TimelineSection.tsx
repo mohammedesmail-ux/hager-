@@ -3,7 +3,7 @@ import { config } from '../config/content';
 
 export function TimelineSection() {
   return (
-    <section className="py-24 px-6 md:px-12 bg-white/20 backdrop-blur-sm z-10 relative">
+    <section id="timeline" className="py-24 px-6 md:px-12 bg-white/20 backdrop-blur-sm z-10 relative">
       <div className="max-w-2xl mx-auto flex flex-col md:flex-row gap-12">
         <div className="md:w-1/3">
           <motion.h4 

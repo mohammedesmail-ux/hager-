@@ -8,7 +8,7 @@ export function GardenSection() {
   const activeFlowerDef = config.garden.flowers.find(f => f.id === selectedFlower);
 
   return (
-    <section className="py-20 px-4 md:px-8 max-w-7xl mx-auto relative z-10 w-full min-h-screen flex flex-col justify-center">
+    <section id="garden" className="py-20 px-4 md:px-8 max-w-7xl mx-auto relative z-10 w-full min-h-screen flex flex-col justify-center">
       <div className="text-center mb-16">
         <motion.h2 
           initial={{ opacity: 0, y: 20 }}
